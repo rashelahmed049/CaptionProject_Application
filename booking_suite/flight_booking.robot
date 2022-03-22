@@ -12,7 +12,7 @@ Test Template      Book Flights
 TC1
     Guwahati    Pune    business
 TC2
-    Mumbai      Hyderabad       first
+    Mumbai      Punjab       first
 
 *** Keywords ***
 Book Flights
